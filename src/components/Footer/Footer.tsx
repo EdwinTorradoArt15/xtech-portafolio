@@ -9,7 +9,7 @@ export function Footer() {
       <div className="justify-between md:flex">
         <div>
           <Image
-            src="/assets/Logo.jpeg"
+            src="/assets/Logo.png"
             width={200}
             height={40}
             alt="Logo Bank"
