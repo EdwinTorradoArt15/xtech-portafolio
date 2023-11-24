@@ -5,6 +5,7 @@ import { AcercaDe } from "@/components/AcercaDe";
 import { Portafolio } from "@/components/Portafolio";
 import { PaymentsMethods } from "@/components/PaymentsMethods";
 import { Footer } from "@/components/Footer";
+import { ScrollButton } from "@/components/ScrollButton";
 
 export default function Home() {
   return (
@@ -16,6 +17,7 @@ export default function Home() {
       <Portafolio />
       <PaymentsMethods />
       <Footer />
+      <ScrollButton />
     </>
   );
 }

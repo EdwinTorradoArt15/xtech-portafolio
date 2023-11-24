@@ -40,7 +40,7 @@ export const FirstBlock = () => {
         </div>
         <MotionTransition className="flex items-center justify-center">
           <Image
-            src="/assets/cards-block.png"
+            src="/assets/ImageFirsts.png"
             alt="Card"
             width={450}
             height={450}
